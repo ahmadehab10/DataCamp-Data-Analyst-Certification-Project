@@ -40,6 +40,10 @@ The dataset includes one record per customer and the following columns:
 | nb_site_visits | Website visits in the last 6 months |
 | state | Customer location |
 
+## Executive Summary
+
+The dual-contact "Email + Call" strategy achieved the highest returns but also required more effort. For a scalable approach, the "Call-only" method provides solid performance with less resource demand. "Email-only" should be reserved for broad outreach where cost is a constraint.
+
 ### Data Validation and Cleaning Steps
 
 - Checked for and addressed missing values
@@ -64,19 +68,7 @@ To support ongoing evaluation, the recommended metric is:
 
 **Average Weekly Revenue per Sales Method**
 
-This balances efficiency and outcome. Example values:
-
-| Method | Average Weekly Revenue |
-|--------|-------------------------|
-| Email | $XX.XX |
-| Call | $XX.XX |
-| Email + Call | $XX.XX |
-
-(Insert specific values from the analysis)
-
-## Executive Summary
-
-The dual-contact "Email + Call" strategy achieved the highest returns but also required more effort. For a scalable approach, the "Call-only" method provides solid performance with less resource demand. "Email-only" should be reserved for broad outreach where cost is a constraint.
+This balances efficiency and outcome. 
 
 ## Insights Deep Dive
 
